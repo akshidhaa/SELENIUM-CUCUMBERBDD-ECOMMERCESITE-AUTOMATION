@@ -17,6 +17,7 @@ Behavior Driven Development implementation using Cucumber
 Reusable Page Object Model structure
 
 Technology Stack
+
 Java 
 Selenium WebDriver for browser automation
 TestNG for test execution and assertions
@@ -25,6 +26,7 @@ Maven for dependency management
 Eclipse IDE  as development environment
 
 Execution Steps
+
 Clone the repository
 Open the project in Eclipse
 Run the TestRunner.java file as a TestNG test
