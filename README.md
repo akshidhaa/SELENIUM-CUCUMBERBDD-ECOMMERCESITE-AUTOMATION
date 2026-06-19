@@ -34,5 +34,4 @@ Run the TestRunner.java file as a TestNG test
 
 Reports
 After execution, the Cucumber HTML report is generated in the following location
-target/cucumber-report.html
-This report can be opened in a browser and exported to PDF using the print option
+target/cucumber-report.html . This report can be opened in a browser and exported to PDF using the print option
