@@ -25,6 +25,7 @@ selenium-ecommerce-automation
 │ │ ├── ProductPage.java
 │ │ ├── CartPage.java
 │ │ └── CheckoutPage.java
+
 │ ├── stepdefinitions
 │ │ ├── LoginSteps.java
 │ │ ├── ProductSteps.java
@@ -33,7 +34,7 @@ selenium-ecommerce-automation
 │ │ └── PaymentSteps.java
 │ ├── runner
 │ │ └── TestRunner.java
-│ └── hooks
+│ 
 │ └── Hooks.java
 │
 ├── features
