@@ -8,9 +8,7 @@ The framework is designed using the Page Object Model approach to improve mainta
 
 STRUCTURE 
 
-Akshidhaa Balaji <akshidhaabalaji@gmail.com>
-7:10 PM (0 minutes ago)
-to me
+
 
 ## 📂 Project Structure
 
