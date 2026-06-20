@@ -9,43 +9,7 @@ The framework is designed using the Page Object Model approach to improve mainta
 STRUCTURE 
 
 
-selenium-ecommerce-automation/
-│
-├── src/
-│ └── test/
-│ └── java/
-│ ├── pages/
-│ │ ├── LoginPage.java
-│ │ ├── ProductPage.java
-│ │ ├── CartPage.java
-│ │ └── CheckoutPage.java
-│ │
-│ ├── stepdefinitions/
-│ │ ├── LoginSteps.java
-│ │ ├── ProductSteps.java
-│ │ ├── CartSteps.java
-│ │ ├── CheckoutSteps.java
-│ │ └── PaymentSteps.java
-│ │
-│ ├── runner/
-│ │ └── TestRunner.java
-│ │
-│ └── hooks/
-│ └── Hooks.java
-│
-├── features/
-│ ├── login.feature
-│ ├── product.feature
-│ ├── cart.feature
-│ ├── checkout.feature
-│ └── payment.feature
-│
-├── target/
-│ └── cucumber-report.html
-│
-├── pom.xml
-│
-└── README.md
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/7491fb0b-efad-4f7e-b589-26191e31c582" />
 
 FEATURES
 
