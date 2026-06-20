@@ -1,9 +1,18 @@
 # SELENIUM-CUCUMBERBDD-ECOMMERCESITE-AUTOMATION
+
+PRE-REQUISITE :
+
+DOWNLOAD JAVA JDK
+SELENIUM JARS (exe files)
+use EclipseIDE / IntelliJ community
+Maven
+Cucumber BDD for eclipse installed if using EclipseIDE
 PROJECT OVERVIEW
 
 This project is a test automation framework developed for an e-commerce web application using Selenium WebDriver, TestNG, and Cucumber.
 The framework automates end-to-end user workflows including login, product selection, cart management, checkout process, and payment functionality.
 The framework is designed using the Page Object Model approach to improve maintainability and scalability.
+
 
 
 STRUCTURE 
