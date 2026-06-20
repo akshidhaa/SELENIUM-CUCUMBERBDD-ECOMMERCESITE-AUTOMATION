@@ -22,6 +22,7 @@ selenium-ecommerce-automation
 │ │ ├── LoginPage.java
 │ │ ├── ProductPage.java
 │ │ ├── CartPage.java
+| | |___SignupPage.java
 │ │ └── CheckoutPage.java
 
 │ ├── stepdefinitions
