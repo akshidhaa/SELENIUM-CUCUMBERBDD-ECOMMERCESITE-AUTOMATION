@@ -5,6 +5,48 @@ This project is a test automation framework developed for an e-commerce web appl
 The framework automates end-to-end user workflows including login, product selection, cart management, checkout process, and payment functionality.
 The framework is designed using the Page Object Model approach to improve maintainability and scalability.
 
+
+STRUCTURE 
+
+
+selenium-ecommerce-automation/
+│
+├── src/
+│ └── test/
+│ └── java/
+│ ├── pages/
+│ │ ├── LoginPage.java
+│ │ ├── ProductPage.java
+│ │ ├── CartPage.java
+│ │ └── CheckoutPage.java
+│ │
+│ ├── stepdefinitions/
+│ │ ├── LoginSteps.java
+│ │ ├── ProductSteps.java
+│ │ ├── CartSteps.java
+│ │ ├── CheckoutSteps.java
+│ │ └── PaymentSteps.java
+│ │
+│ ├── runner/
+│ │ └── TestRunner.java
+│ │
+│ └── hooks/
+│ └── Hooks.java
+│
+├── features/
+│ ├── login.feature
+│ ├── product.feature
+│ ├── cart.feature
+│ ├── checkout.feature
+│ └── payment.feature
+│
+├── target/
+│ └── cucumber-report.html
+│
+├── pom.xml
+│
+└── README.md
+
 FEATURES
 
 Login automation
