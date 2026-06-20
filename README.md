@@ -50,7 +50,7 @@ selenium-ecommerce-automation
 └── README.md
 
 
-<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/7491fb0b-efad-4f7e-b589-26191e31c582" />
+
 
 FEATURES
 
